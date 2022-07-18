@@ -1,20 +1,13 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Great Web Traffic SEO"
+subtitle: 
+image: /img/seo.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Social Media in the SEO?
+    text: "If you’re reading this, there’s probably one thing you’re desperate to do: increase your website traffic. In fact, the more traffic to your website, the more potential customers you can reach and engage with, which of course leads to increased revenue and profits for your business! This makes social media one of the most powerful marketing tools available today - but that doesn’t mean you have to do it all by yourself. Here are seven ways to use social media to boost your website traffic that will make promoting your business on social media easier and more effective than ever before!"
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
-
+    heading: "Search Engine Optimization (SEO)"
+    text: "1. Make sure your website is optimized for search engines. This means using key words and phrases in your content that people are likely to search for.
+2. Use social media to share your content. This will help get your content in front of more people and help you build an audience.
+3. Use social media ads to target potential customers. You can use demographic information to target ads so that they are more likely to be seen by people who are interested in what you have to offer.
+4. Make sure your website is mobile-friendly. More and more people are using their phones and tablets to access the internet, so it’s important that your website is designed for these devices."
