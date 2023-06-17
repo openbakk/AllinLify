@@ -10,8 +10,8 @@ Use our deploy button to get your own copy of the repository.
 
 This will setup everything needed for running the CMS:
 
-* A new repository in your GitHub account with the code [PortalGK](https://www.portalgk.com.br/)
-* Full Continuous Deployment to Netlify's global CDN network [ICNN](https://www.icnn.com.br/)
+* A new repository in your GitHub account with the code [PortalGK](https://portalgk.com.br)
+* Full Continuous Deployment to Netlify's global CDN network [ICNN](https://icnn.com.br)
 * Control users and access with Netlify Identity
 * Manage content with Netlify CMS
 
