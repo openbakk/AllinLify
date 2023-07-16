@@ -1,6 +1,6 @@
 # Hugo template for Netlify CMS with Netlify Identity
 
-This is a small business template built with [Hugo](https://gloe.in) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](https://twitter.com/dezel), [be.cap.s](https://www.becaps.life/blog-becaps).
+This is a small business template built with ICNN and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](https://twitter.com/dezel).
 
 ## Getting started
 
